@@ -39,7 +39,7 @@ steps:
     type: specs
   # Coefficients of our Hamiltonian
   - coefficients: 
-      x: 1
+      x: 2
       z: 2
       i: 1
     type: coefficients 
